@@ -1,0 +1,7 @@
+development:
+ adapter: postgresql
+ username:
+ password:
+ host: localhost
+ database: figs
+ schema_search_path: figsfromspace_blog
